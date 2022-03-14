@@ -32,7 +32,7 @@ DB_misc_t plugin;
 #define trace(...) { deadbeef->log_detailed (&plugin.plugin, 0, __VA_ARGS__); }
 #define trace_err(...) { deadbeef->log ( __VA_ARGS__); }
 
-#define APPLICATION_ID "424928021309554698"
+#define APPLICATION_ID "945673486888763402"
 #define MAX_LEN 256
 
 DB_functions_t *deadbeef;
